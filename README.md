@@ -1,4 +1,5 @@
-mspacman-c
-==========
+Ms. Pacman - C
+==============
 
-A implementation of Ms. Pac-Man in C
+This is an incomplete implementation of Ms. Pac-Man in C.
+
